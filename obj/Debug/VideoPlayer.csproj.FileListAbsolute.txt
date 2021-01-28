@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe.config
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.exe
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\bin\Debug\VideoPlayer.pdb
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.cache
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer_MarkupCompile.lref
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\MainWindow.baml
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.g.resources
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.Properties.Resources.resources
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.exe
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\VideoPlayer.pdb
+C:\Users\Dell\source\repos\VideoPlayer\VideoPlayer\obj\Debug\App.baml
